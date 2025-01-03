@@ -22,4 +22,4 @@ class AipError extends Error{
     }
 }
 
-export default AipError
+export  {AipError}
